@@ -1,0 +1,8 @@
+.showComplted{
+    width: 55%;
+    background-color: rgb(91, 160, 106);
+    padding: 6px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}

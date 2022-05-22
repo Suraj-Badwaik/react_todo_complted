@@ -1,5 +1,12 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  width: 30%;
+  margin: auto;
+  /* border: 2px solid red; */
+  padding: 1%;
+  background: url("https://s3.amazonaws.com/images.skyscrapercenter.com/thumbs/44674_500x650.jpg");
+  background-color: green;
+  margin-top: 2%;
 }
 
 .App-logo {
